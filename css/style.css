@@ -30,3 +30,8 @@ body {
     font-size: 18px;
     color: white;
 }
+.button{
+    display:inline-block;
+    background-color: #0289a6;
+    border-radius: 20px;
+}
