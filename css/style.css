@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    padding: 0;
+    padding: 150px 0px 0px 50px;
 }
 
 .header {
     display: flex;
-    width: 80%;
+    width: 92%;
     padding: 20px 0px 20px 50px;
     background-color: #24252a;
 }
