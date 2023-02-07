@@ -12,6 +12,7 @@ body {
 }
 
 .logo{
+    margin-top: 10px;
     font-family: 'Lalezar', cursive;
     font-size: 30px;
     text-transform: uppercase;
@@ -31,7 +32,14 @@ body {
     color: white;
 }
 .button{
-    display:inline-block;
+    display: inline-flex;
     background-color: #0289a6;
     border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 180px;
+}
+.button > a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white; 
 }
