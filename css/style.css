@@ -8,3 +8,9 @@ header {
     padding: 50px;
     background-color: #24252a;
 }
+
+.logo{
+    font-family: 'Lalezar', cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+}
