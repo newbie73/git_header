@@ -6,10 +6,12 @@ body {
 header {
     width: 100%;
     padding: 20px;
+    float: left;
     background-color: #24252a;
 }
 
 .logo{
+    float: left;
     font-family: 'Lalezar', cursive;
     font-size: 50px;
     text-transform: uppercase;
