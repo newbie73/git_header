@@ -14,6 +14,8 @@ header {
 .logo{
     float: left;
     font-family: 'Lalezar', cursive;
-    font-size: 35px;
+    font-size: 30px;
     text-transform: uppercase;
+    letter-spacing: 1px;
+    color: white;
 }
